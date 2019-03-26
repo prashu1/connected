@@ -1,0 +1,2 @@
+C:\Users\prashu\source\repos\ADOConnectedTest\ADOConnectedTest\obj\Debug\ADOConnectedTest.csprojAssemblyReference.cache
+C:\Users\prashu\source\repos\ADOConnectedTest\ADOConnectedTest\obj\Debug\ADOConnectedTest.csproj.CoreCompileInputs.cache
